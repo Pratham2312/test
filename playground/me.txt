@@ -1,0 +1,5 @@
+{{#user}}
+Name: Prathamesh Gosavi
+Skills: HTML, CSS, JS, Data Analytics, Google Cloud
+Email: prathameshgosavi2312@gmail.com
+{{/user}}
